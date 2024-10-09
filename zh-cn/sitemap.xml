@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gkxgithub.github.io/</loc>
-    <lastmod>2024-10-09T17:43:11+08:00</lastmod>
+    <lastmod>2024-10-09T17:58:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>https://gkxgithub.github.io/post/</loc>
-    <lastmod>2024-10-09T17:43:11+08:00</lastmod>
+    <lastmod>2024-10-09T17:58:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,14 +38,14 @@
                 href="https://gkxgithub.github.io/post/"
                 />
   </url><url>
+    <loc>https://gkxgithub.github.io/p/%E7%BE%8E/</loc>
+    <lastmod>2024-10-09T17:58:11+08:00</lastmod>
+  </url><url>
+    <loc>https://gkxgithub.github.io/p/%E5%BE%AE%E6%9C%8D%E5%8A%A1docker/</loc>
+    <lastmod>2024-10-09T17:50:11+08:00</lastmod>
+  </url><url>
     <loc>https://gkxgithub.github.io/p/pushtest/</loc>
     <lastmod>2024-10-09T17:43:11+08:00</lastmod>
-  </url><url>
-    <loc>https://gkxgithub.github.io/p/newnewnewnewnewnew/</loc>
-    <lastmod>2024-10-09T15:09:13+08:00</lastmod>
-  </url><url>
-    <loc>https://gkxgithub.github.io/p/newnewnew/</loc>
-    <lastmod>2024-10-09T14:52:11+08:00</lastmod>
   </url><url>
     <loc>https://gkxgithub.github.io/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -179,8 +179,6 @@
   </url><url>
     <loc>https://gkxgithub.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gkxgithub.github.io/p/</loc>
   </url><url>
     <loc>https://gkxgithub.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>

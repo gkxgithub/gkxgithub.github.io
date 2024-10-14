@@ -66,7 +66,7 @@
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gkxgithub.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -83,6 +83,22 @@
                 href="https://gkxgithub.github.io/categories/"
                 />
   </url><url>
+    <loc>https://gkxgithub.github.io/p/linux/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gkxgithub.github.io/categories/test/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gkxgithub.github.io/en/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://gkxgithub.github.io/categories/test/"
+                />
+  </url><url>
     <loc>https://gkxgithub.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -94,19 +110,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://gkxgithub.github.io/p/test-chinese/"
-                />
-  </url><url>
-    <loc>https://gkxgithub.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gkxgithub.github.io/en/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gkxgithub.github.io/categories/test/"
                 />
   </url><url>
     <loc>https://gkxgithub.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>

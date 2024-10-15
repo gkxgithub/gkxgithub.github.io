@@ -65,8 +65,11 @@
     <loc>https://gkxgithub.github.io/p/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96%E9%A1%B9%E7%9B%AE%E4%BB%A3%E7%A0%81%E8%A7%A3%E8%AF%BB/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gkxgithub.github.io/p/linux/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gkxgithub.github.io/categories/</loc>
-    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -83,22 +86,6 @@
                 href="https://gkxgithub.github.io/categories/"
                 />
   </url><url>
-    <loc>https://gkxgithub.github.io/p/linux/</loc>
-    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gkxgithub.github.io/categories/test/</loc>
-    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gkxgithub.github.io/en/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gkxgithub.github.io/categories/test/"
-                />
-  </url><url>
     <loc>https://gkxgithub.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -110,6 +97,19 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://gkxgithub.github.io/p/test-chinese/"
+                />
+  </url><url>
+    <loc>https://gkxgithub.github.io/categories/test/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gkxgithub.github.io/en/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://gkxgithub.github.io/categories/test/"
                 />
   </url><url>
     <loc>https://gkxgithub.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
